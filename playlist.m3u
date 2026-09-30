@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://192.168.8.112:8080/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/zamba120/Iptv-server/main/epg.xml"
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 #EXTINF:-1 tvg-id="Rai 2" tvg-name="Rai 2" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2

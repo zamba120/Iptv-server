@@ -1,5 +1,6 @@
-# IPTV Server - Auto-Sync Playlist
+# IPTV Server - Auto-Sync
 
-Lista canali DTT e Radio italiane aggiornata e verificata automaticamente dal server IPTV in Rust sul NAS.
+Lista DTT/Radio + EPG aggiornate dal NAS. URL stabili:
 
-- **Playlist URL (M3U):** [https://raw.githubusercontent.com/zamba120/Iptv-server/main/playlist.m3u](https://raw.githubusercontent.com/zamba120/Iptv-server/main/playlist.m3u)
+- Playlist: https://raw.githubusercontent.com/zamba120/Iptv-server/main/playlist.m3u
+- EPG: https://raw.githubusercontent.com/zamba120/Iptv-server/main/epg.xml
