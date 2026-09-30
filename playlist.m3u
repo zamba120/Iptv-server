@@ -153,6 +153,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest_hr.mpd
+#EXTINF:-1 tvg-id="Rai Radio 2 Visual" tvg-name="Rai Radio 2 Visual" tvg-chno="303" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rairadio2visual.png" group-title="Radio",Rai Radio 2 Visual
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080
 #EXTINF:-1 tvg-id="RADIOFRECCIA" tvg-name="RADIOFRECCIA" tvg-chno="358" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/radiofrecciatv.png" group-title="Radio",RADIOFRECCIA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Radio Italia Live" tvg-name="Radio Italia Live" tvg-chno="434" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9ce44605-cc96-4d67-8c54-2e8ba4de0b0b.jpeg" group-title="Radio",Radio Italia Live
