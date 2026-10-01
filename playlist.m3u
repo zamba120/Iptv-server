@@ -1,10 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zamba120/Iptv-server/main/epg.xml"
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raiuno1-dash-live.akamaized.net/dash/live/652296/raiuno1/manifest.mpd
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 #EXTINF:-1 tvg-id="Rai 2" tvg-name="Rai 2" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
-#EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
-https://raidue1-dash-live.akamaized.net/dash/live/662448/raidue1/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 #EXTINF:-1 tvg-id="Rai 3" tvg-name="Rai 3" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
 #EXTVLCOPT:http-user-agent=Hbbtv/1.7.1
 https://raitre1-dash-live.akamaized.net/dash/live/663957/raitre1/manifest.mpd
