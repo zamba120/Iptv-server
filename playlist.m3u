@@ -142,7 +142,5 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Radio Italia Live" tvg-name="Radio Italia Live" tvg-chno="434" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9ce44605-cc96-4d67-8c54-2e8ba4de0b0b.jpeg" group-title="Radio",Radio Italia Live
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="Rai Radio 1" tvg-name="Rai Radio 1" tvg-chno="700" tvg-logo="" group-title="Radio",Rai Radio 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16
 #EXTINF:-1 tvg-id="RMC" tvg-name="RMC" tvg-chno="772" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radiomontecarlotv.png" group-title="Radio",RMC
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
