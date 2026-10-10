@@ -120,14 +120,24 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 #EXTINF:-1 tvg-id="Radio 105" tvg-name="Radio 105" tvg-chno="66" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Radio",Radio 105
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Deejay TV" tvg-name="Deejay TV" tvg-chno="69" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Altro",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Italia TV" tvg-name="Radio Italia TV" tvg-chno="70" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Altro",Radio Italia TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio24-IlSole24OreTV" tvg-name="Radio24-IlSole24OreTV" tvg-chno="87" tvg-logo="https://i.imgur.com/NTqrdWW.png" group-title="Radio",Radio24-IlSole24OreTV
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+#EXTINF:-1 tvg-id="RadioFreccia" tvg-name="RadioFreccia" tvg-chno="88" tvg-logo="https://i.imgur.com/J5N9F7Z.png" group-title="Radio",RadioFreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTV" tvg-name="RadioItaliaTV" tvg-chno="89" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="Radio",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="Rai Radio 2 Visual Radio" tvg-name="Rai Radio 2 Visual Radio" tvg-chno="90" tvg-logo="https://i.imgur.com/nVBet0h.png" group-title="Radio",Rai Radio 2 Visual Radio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1 tvg-id="RTL 102.5" tvg-name="RTL 102.5" tvg-chno="136" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rtl1025tv.png" group-title="Radio",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="[257] VIRGIN RADIO" tvg-name="[257] VIRGIN RADIO" tvg-chno="257" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Radio",[257] VIRGIN RADIO
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="[258] RADIOFRECCIA" tvg-name="[258] RADIOFRECCIA" tvg-chno="258" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/radiofrecciatv.png" group-title="Radio",[258] RADIOFRECCIA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Radio Italia Live" tvg-name="Radio Italia Live" tvg-chno="434" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/9ce44605-cc96-4d67-8c54-2e8ba4de0b0b.jpeg" group-title="Radio",Radio Italia Live
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="RMC" tvg-name="RMC" tvg-chno="772" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/radiomontecarlotv.png" group-title="Radio",RMC
