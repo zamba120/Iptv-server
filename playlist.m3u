@@ -72,6 +72,8 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="SuperTennis" tvg-name="SuperTennis" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Altro",SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="Deejay TV" tvg-name="Deejay TV" tvg-chno="69" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Altro",Deejay TV
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Freccia" tvg-name="Radio Freccia" tvg-chno="700" tvg-logo="" group-title="Radio",Radio Freccia
