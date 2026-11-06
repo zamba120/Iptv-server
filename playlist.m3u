@@ -74,6 +74,10 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Boing" tvg-name="Boing" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png" group-title="Mediaset",Boing
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="K2" tvg-name="K2" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="Discovery",K2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a03e33a2fca847af9f3dba42be1fddd0:8f39a9339f889751703b8c99c9f69bb2
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(k2)/manifest.mpd
 #EXTINF:-1 tvg-id="Rai Gulp" tvg-name="Rai Gulp" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
