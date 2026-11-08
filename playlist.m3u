@@ -1,8 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zamba120/Iptv-server/main/epg.xml"
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=raiplayappletv
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1154541d7175f35bbf9915a70749a95:509eaff482371aa0164f6fb9c9b832ec
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=hbbtv
 #EXTINF:-1 tvg-id="Rai 2" tvg-name="Rai 2" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 http://team-tv.co:81/rai2/index.m3u8
 #EXTINF:-1 tvg-id="Rai 3" tvg-name="Rai 3" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
@@ -133,8 +134,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 #EXTINF:-1 tvg-id="Rai Radio 2 Visual Radio" tvg-name="Rai Radio 2 Visual Radio" tvg-chno="90" tvg-logo="https://i.imgur.com/nVBet0h.png" group-title="Radio",Rai Radio 2 Visual Radio
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="RTL 102.5" tvg-name="RTL 102.5" tvg-chno="136" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/rtl1025tv.png" group-title="Radio",RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-id="[257] VIRGIN RADIO" tvg-name="[257] VIRGIN RADIO" tvg-chno="257" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Radio",[257] VIRGIN RADIO
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
