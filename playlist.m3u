@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/zamba120/Iptv-server/main/epg.xml"
 #EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1154541d7175f35bbf9915a70749a95:509eaff482371aa0164f6fb9c9b832ec
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=hbbtv
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
 #EXTINF:-1 tvg-id="Rai 2" tvg-name="Rai 2" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 http://team-tv.co:81/rai2/index.m3u8
 #EXTINF:-1 tvg-id="Rai 3" tvg-name="Rai 3" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
 #EXTINF:-1 tvg-id="Rete 4" tvg-name="Rete 4" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
-https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-chno="5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset",Canale 5
-https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-chno="6" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="Mediaset",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-id="LA7" tvg-name="LA7" tvg-chno="7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="LA7",LA7
@@ -24,8 +24,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-id="20 Mediaset" tvg-name="20 Mediaset" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest_hd.mpd
 #EXTINF:-1 tvg-id="Rai 4" tvg-name="Rai 4" tvg-chno="21" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Rai",Rai 4
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Iris" tvg-name="Iris" tvg-chno="22" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
@@ -35,7 +34,7 @@ http://team-tv.co:81/rai5/index.m3u8
 http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="Rai Premium" tvg-name="Rai Premium" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="Rai",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Cielo" tvg-name="Cielo" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="Twenty Seven" tvg-name="Twenty Seven" tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/sfiorini/IPTV-Italy/logos/twentyseven.png" group-title="Mediaset",Twenty Seven
@@ -74,10 +73,10 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Rai Gulp" tvg-name="Rai Gulp" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Rai Yoyo" tvg-name="Rai Yoyo" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="Rai",Rai Yoyo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-chno="46" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Discovery",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
@@ -111,8 +110,8 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1 tvg-id="Rai Sport" tvg-name="Rai Sport" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport.png" group-title="Rai",Rai Sport
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="Sportitalia" tvg-name="Sportitalia" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Altro",Sportitalia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/1920x1080_4540800/chunklist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis" tvg-name="SuperTennis" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Altro",SuperTennis
