@@ -81,7 +81,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Super!" tvg-name="Super!" tvg-chno="47" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/super.png" group-title="Altro",Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/manifest_dvr.mpd
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai News 24" tvg-name="Rai News 24" tvg-chno="48" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="Rai",Rai News 24
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-chno="49" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png" group-title="Mediaset",Italia 2
