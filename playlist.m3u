@@ -31,9 +31,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Rai 5" tvg-name="Rai 5" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
-http://team-tv.co:81/rai5/index.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rai Movie" tvg-name="Rai Movie" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Rai",Rai Movie
-http://team-tv.co:81/raimovie/index.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rai Premium" tvg-name="Rai Premium" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="Rai",Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Cielo" tvg-name="Cielo" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
@@ -44,7 +44,9 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="TV2000" tvg-name="TV2000" tvg-chno="28" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Altro",TV2000
 https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
 #EXTINF:-1 tvg-id="LA7d" tvg-name="LA7d" tvg-chno="29" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png" group-title="LA7",LA7d
-http://102.129.186.182:81/la7d/index.m3u8
+#EXTSIZE: Medium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+http://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 #EXTINF:-1 tvg-id="La 5" tvg-name="La 5" tvg-chno="30" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="Mediaset",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
